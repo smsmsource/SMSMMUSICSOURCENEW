@@ -52,16 +52,16 @@ async def start_set(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "👉 My Source Code", url="https://github.com/SRTheProgrammer/SuraVCStream"
+                        "👉 My Source Code", url="https://t.me/POSTATANIME"
                     )
                 ],
                 [    InlineKeyboardButton(
-                    "❗️⚠️Youtube Channel⚠️❗️", url="https://www.youtube.com/channel/UCCmjxoJe_6T1ota84YH3ikg?sub_confirmation=1"
+                    "❗️⚠️Youtube Channel⚠️❗️", url="https://t.me/POSTATANIME"
                      )
                 ],
                 [
                     InlineKeyboardButton(
-                    "Mining ₿itcoin", url="http://t.me/ProBTCMinerbot?start=ref1261923198"
+                    "Mining ₿itcoin", url="https://t.me/POSTATANIME"
                     )
                 ]
             ]
